@@ -10,9 +10,11 @@ This repository contains the assignments and solutions for the Computer Vision B
 ## Requirements
 The code for each assignment was developed using Python 3.x and the following packages:
 - OpenCV
+- Pillow
 - Numpy
 - Matplotlib
 
+> The course project was developed using PyTorch
 ## Usage
 Each assignment contains a description of the tasks, and the solution code. To run the code, make sure you have the required packages installed and simply run the notebooks in your local environment.
 
